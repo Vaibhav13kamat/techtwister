@@ -1,74 +1,73 @@
-
 /* .shadow {
     -moz-box-shadow:    inset 1rem 1rem 4rem #000000;
     -webkit-box-shadow: inset 1rem 1rem 4rem #000000;
     box-shadow:         inset 100px 100px 100px #000000;
  } */
-.modal-content{
-    /* border: solid  4px; */       
-    background: linear-gradient(90deg
-      ,#f7c626 15%,#f68c2f 40%,#e5127d 85%);;
+.modal-content {
+    /* border: solid  4px; */
+    background-color: rgba(0, 0, 0, 0.336);
+    background-image: linear-gradient(-180deg,rgba(0, 153, 255, 0.116) 10%, transparent 50%,  rgba(255, 0, 221, 0.116)  100%);
+    backdrop-filter: blur(19px);
 
-    color:white;
+    color: white;
     /* border-radius: 1rem; */
-    padding: 0.2rem;
-    box-shadow: inset 0px 0px 0.4rem 0.1rem  rgba(231, 231, 231, 0.692);
-}
-.modal-content > .container{
-    background-color: rgba(37, 37, 37, 1);
-    padding: 2rem;
-    margin: 0%;
+    
+    box-shadow: inset 0px 0px 0.4rem 0.1rem rgba(255, 255, 255, 0.397);
 }
 
-#my-modal-title{
+
+#my-modal-title {
     font-size: 3rem;
     font-family: valFont2;
 }
 
+.modal-content > div{
+    padding: 1rem 1rem;
+}
 
 
 
-
-.modal-header{
+.modal-header {
     border-bottom: none;
 }
 
-.modal-title{
+.modal-title {
     font-size: 4rem;
     font-family: heroic;
 }
 
 
-.modal-body{
+.modal-body {
     height: fit-content
 }
 
-.modal-footer{
+.modal-footer {
     border-top: none;
 }
 
-.general-rules-heading{
+.general-rules-heading {
     margin-top: 1rem;
     size: 2rem;
 }
 
-.rules3 div{
+.rules3 div {
     background-color: rgba(51, 51, 51, 1);
     /* border-radius: 10px; */
     padding: 0.1rem;
     padding-left: 1rem;
     margin-top: 0.3rem;
-    
-    
+
+
 }
 
-#rules{
+#rules {
     margin-top: 2rem;
     margin-left: 0.5rem;
 }
 
-#rules p{
+#rules p {
     margin-bottom: 0%;
+    margin-top: 0%;
 }
 
 
@@ -96,7 +95,8 @@
     border-radius: 9px;
     align-content: center;
 }
-.place{
+
+.place {
     font-size: 2rem;
     text-align: center;
     color: rgb(0, 153, 255);
@@ -104,12 +104,24 @@
 }
 
 
-.prize-value{
+.prize-value {
     padding-left: 1rem;
     font-size: 1.5rem;
     /* float: right; */
 }
 
+.event-details-modal {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-clip: padding-box;
+    border: 1px solid rgba(47, 0, 255, 0.151);
+    border-radius: 0.3rem;
+    color: white;
+    outline: 0;
+}
 
 
 .BUTTON_ROQ {
@@ -140,9 +152,9 @@
     flex: 100%;
     margin-left: 7rem;
     margin-right: 7rem;
- }
- 
- .BUTTON_ROQ:hover {
+}
+
+.BUTTON_ROQ:hover {
     border: solid #337FED 1px;
     background: #1E62D0;
     background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
@@ -154,19 +166,20 @@
     -moz-border-radius: 20px;
     border-radius: 20px;
     text-decoration: none;
- }
-
-.close{
-    float: right;
-  font-size: 1.5rem;
-  font-weight: 700;
-  line-height: 1;
-  color: white;
-  text-shadow: 0 1px 0 #fff;
-  opacity: 1;
 }
-.close:hover{
-  color: white;
-  text-shadow: 0 1px 0 #fff;
-  opacity: 0.5;
+
+.close {
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: white;
+    text-shadow: 0 1px 0 #fff;
+    opacity: 1;
+}
+
+.close:hover {
+    color: white;
+    text-shadow: 0 1px 0 #fff;
+    opacity: 0.5;
 }

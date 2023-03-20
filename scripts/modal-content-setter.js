@@ -40,10 +40,6 @@ function fun(a) {
     document.getElementById("day").innerHTML = "Day "+ events[a].children[3].innerHTML;
 
     
-
-
-
-    
     let notpc=document.getElementById("notpc");
     notpc.innerText=": "+events[a].children[4].innerHTML;
     
@@ -57,11 +53,9 @@ function fun(a) {
     let rulearea=document.getElementById("rules");
     let rules= events[a].querySelectorAll('RULE');
     rules.forEach(ruleXmlNode => {
-        let p = document.createElement('p');
+        let p = document.createElement('li');
         p.innerText=ruleXmlNode.innerHTML;
         rulearea.appendChild(p);
-        let br= document.createElement('br');
-        rulearea.appendChild(br);
     });
 
     // staff 
