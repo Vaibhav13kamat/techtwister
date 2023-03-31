@@ -39,7 +39,7 @@
 		<TITLE>FIFA 22/23 </TITLE>
 		<FIRST>5000</FIRST>
 		<SECOND>3000</SECOND>
-		<DAY>1 and 2</DAY>
+		<DAY>1 and Day 2</DAY>
 		<NOTPC>Unlimited</NOTPC>
 		<NOPPT>1</NOPPT>
 		<FEES>100</FEES>
@@ -161,8 +161,11 @@
 			<STAFF>MR. SHREYANK JAMBHALE</STAFF>
 		</STAFFS>
 		<STUDENTS>
-			<STUDENT>PRADEEP DAS (+91 95521 12460)</STUDENT>
-			<STUDENT>RUPAM LOTLIKAR (+91 96044 67382)</STUDENT>
+			<STUDENT>SHUBHAM JANA (+91 9545261978 ) </STUDENT>
+			<STUDENT>TAUSIF SIDDIQUI (+91 7769907778 ) </STUDENT>
+			<STUDENT>PRADEEP DAS (+91 9552112460 ) </STUDENT>
+			<STUDENT>RUPAM LOTLIKAR (+91 9604467382 ) </STUDENT>
+			<STUDENT>GURURAJ MUNDARGI (+91 7798575908)</STUDENT>
 		</STUDENTS>
 	</EVENT>
 
@@ -202,7 +205,6 @@
 
 		</RULES>
 		<STAFFS>
-			<STAFF>MS. GRIZEL PEREIRA</STAFF>
 			<STAFF>MR. VIREN PEREIIRA</STAFF>
 		</STAFFS>
 		<STUDENTS>
@@ -216,9 +218,9 @@
 		<TITLE>TECH CINEMA </TITLE>
 		<FIRST>5000</FIRST>
 		<SECOND>3000</SECOND>
-		<DAY>1</DAY>
-		<NOTPC>Unlimited</NOTPC>
-		<NOPPT>1</NOPPT>
+		<DAY>1 : Submission , Day 2 : Judging</DAY>
+		<NOTPC>1</NOTPC>
+		<NOPPT>Unrestricted</NOPPT>
 		<FEES>100</FEES>
 		<RULES>
 			<RULE>Rules and Regulations:
@@ -231,6 +233,7 @@
 				•	Decision of the judges will be final and binding on all participants
 				•	The film can be in either of the languages that are English, Hindi, Marathi and Konkani but must be compulsorily subtitled in English.
 			</RULE>
+			<RULE>While registering for TECH CINEMA, only team leader must register their name and no limit on the number of people participating in the film.</RULE>
 			<RULE>
 				Judging Criteria:
 			•	Creativity
@@ -243,7 +246,7 @@
 			</RULE>
 		</RULES>
 		<STAFFS>
-			<STAFF>MS. GRIZEL PEREIRA</STAFF>
+			<STAFF>MS. E. AKILA</STAFF>
 		</STAFFS>
 		<STUDENTS>
 			<STUDENT>ADIL MUJAWAR (9146105773)</STUDENT>
@@ -256,7 +259,7 @@
 		<TITLE>COUNTER-STRIKE</TITLE>
 		<FIRST>5000</FIRST>
 		<SECOND>3000</SECOND>
-		<DAY>1</DAY>
+		<DAY>1 and Day 2</DAY>
 		<NOTPC>Unlimited</NOTPC>
 		<NOPPT>5</NOPPT>
 		<FEES>200</FEES>
@@ -288,7 +291,7 @@
 				</RULE>
 		</RULES>
 		<STAFFS>
-			<STAFF>MS. VAIBHAVI NAIK</STAFF>
+			<STAFF>MS. SHAMA DESSAI</STAFF>
 		</STAFFS>
 		<STUDENTS>
 			<STUDENT>JESVEN GOMES (+91 98906 58995)</STUDENT>
@@ -301,12 +304,13 @@
 		<TITLE>ZUNJH</TITLE>
 		<FIRST>5000</FIRST>
 		<SECOND>3000</SECOND>
-		<DAY>1</DAY>
+		<DAY>2</DAY>
 		<NOTPC>max 2</NOTPC>
 		<NOPPT>2</NOPPT>
 		<FEES>200</FEES>
 		<RULES>
 			<RULE>General Rules:
+			The topic will be given on the same day
 				•	Languages - English, Hindi, Marathi, Konkani
 				•	Each team to be ready and seated in the debate hall before scheduled start time. 
 				•	Each team will be given a total of 8 mins for which includes: 6-7 mins of constructive speech. 1-2 mins of rebuttal. 
@@ -317,10 +321,13 @@
 				•	Use of disrespectful language, personal comments is strictly prohibited and negative marking or disqualification will be applied. 
 				•	The decision of the judges and the organizing committee will be final and binding.
 				•	The teams will be judged on: Content, confidence, arguments and rebutting skills
+</RULE><RULE>NOTE:
+			- First 14 registration will be selected
+
 </RULE>
 		</RULES>
 		<STAFFS>
-			<STAFF>MS. SHAMA DESSAI</STAFF>
+			<STAFF>MS. VAIBHAVI NAIK</STAFF>
 		</STAFFS>
 		<STUDENTS>
 			<STUDENT>TAHEREEN BEIG (+91 72186 35668)</STUDENT>
@@ -333,7 +340,7 @@
 		<TITLE>CALL OF DUTY</TITLE>
 		<FIRST>5000</FIRST>
 		<SECOND>3000</SECOND>
-		<DAY>1</DAY>
+		<DAY>1 and Day 2</DAY>
 		<NOTPC>Unlimited</NOTPC>
 		<NOPPT>5</NOPPT>
 		<FEES>200</FEES>
@@ -381,7 +388,7 @@
 		<NOPPT>2</NOPPT>
 		<FEES>100</FEES>
 		<RULES>
-			<RULE>TOPIC: GENERAL</RULE>
+			<RULE>TOPIC: GK, technology, current affairs, science, entertainment, sports, Indian heritage, classical music, literature</RULE>
 			<RULE>INSTRUCTIONS:
 				•	There will be 3 rounds in the competition and based on the participation numbers the elimination will be decided accordingly.
 				•	In case of a tie, bonus question will be asked which won't have any points.
@@ -407,7 +414,7 @@
 		<TITLE>CRACK THE WEB</TITLE>
 		<FIRST>6000</FIRST>
 		<SECOND>3000</SECOND>
-		<DAY>1</DAY>
+		<DAY>1 : Competition , Day 2 : Judging</DAY>
 		<NOTPC>Unlimited</NOTPC>
 		<NOPPT>3</NOPPT>
 		<FEES>300</FEES>
